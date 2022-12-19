@@ -1,5 +1,9 @@
-### Hi there 👋
+###  Hey! Everyone 
 
+Welcome to my page!
+
+#### Badge Board 
+[![An image of @anshul137's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshul137)](https://holopin.io/@anshul137)
 <!--
 **anshul137/anshul137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
